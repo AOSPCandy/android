@@ -19,7 +19,7 @@
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod"
-           revision="staging/cm-14.0" />
+           revision="cm-14.0" />
 
   <remote  name="Slim"
            fetch="git://github.com/SlimRoms"
